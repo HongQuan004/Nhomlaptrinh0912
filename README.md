@@ -2,6 +2,6 @@
 
 Member:
 Nguyễn Hồng Quân
-Nguyễn Hoàng Long
+!Nguyễn Hoàng Long
 
 ![Image](<https://imgur.com/yCn60nF>)
