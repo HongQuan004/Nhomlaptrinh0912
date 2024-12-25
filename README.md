@@ -2,4 +2,4 @@
 -Nguyễn Hồng Quân
 -Nguyễn Hoàng Long
 
-![Image](<https://imgur.com/yCn60nF>)
+![Image](<Class Diagram.PNG>)
