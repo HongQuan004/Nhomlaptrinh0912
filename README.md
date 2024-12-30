@@ -2,6 +2,6 @@
 - Nguyễn Hồng Quân
 - Nguyễn Hoàng Long
 
-- Class Diagram
+- Class Diagram:
 
 ![Image](<Class Diagram.PNG>)
