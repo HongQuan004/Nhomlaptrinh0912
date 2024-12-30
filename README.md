@@ -7,7 +7,7 @@
 ![Image](<Class Diagram.PNG>)
 
 - Sequence Diagram cho Đăng nhập và đăng kí người dùng :
-![Image](<Sequence Diagram cho Đăng nhập và đăng kí người dùng.PNG>)
+![Image](<Sequence Diagram cho Đăng nhập và đăng ký người dùng.PNG>)
 
 - Sequence Diagram cho Quản lý danh sách phát :
 ![Image](<Sequence Diagram cho Quản lý danh sách phát.PNG>)
